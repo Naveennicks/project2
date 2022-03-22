@@ -9,4 +9,4 @@ x=in.nextint();
 y=in.nextint();
 z=x+y;
 System.out.println("sum of entered integers="+z);
-}}
+}}//guiigiggii
