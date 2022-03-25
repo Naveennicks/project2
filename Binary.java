@@ -25,7 +25,7 @@ public class Binary {
 		String binary ="";
 		while(no>0)
 		{
-			binary =binary+(no%2);
+			binary =(no%2)+binary;
 			no =no/2;
 		}System.out.println(binary);
 	}
